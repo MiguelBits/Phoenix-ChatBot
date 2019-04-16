@@ -1,0 +1,115 @@
+[2018-08-01 15:40:53,609 DEBUG]: Looking for APIs in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\api_library']
+[2018-08-01 15:40:53,993 DEBUG]: Logged in as: dakidmen
+[2018-08-01 15:40:53,997 DEBUG]: APIs: 'sms_text_api', 'user_api', 'voice_browse_api'
+[2018-08-01 15:40:54,002 DEBUG]: Looking for modules in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\modules\\active']
+[2018-08-01 15:40:54,125 INFO]: Module Order: 'athena_control', 'geo_info', 'sms_text', 'twitter', 'conversation', 'hello_world', 'music', 'shop', 'uber', 'voice_browse', 'google', 'wolfram'
+
+[2018-08-01 15:40:55,769 INFO]: Waiting to be woken up... 
+[2018-08-01 15:40:57,246 INFO]: Active listening... 
+[2018-08-01 16:52:48,186 DEBUG]: Looking for APIs in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\api_library']
+[2018-08-01 16:52:48,348 DEBUG]: Logged in as: dakidmen
+[2018-08-01 16:52:48,351 DEBUG]: APIs: 'sms_text_api', 'user_api', 'voice_browse_api'
+[2018-08-01 16:52:48,355 DEBUG]: Looking for modules in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\modules\\active']
+[2018-08-01 16:52:48,471 INFO]: Module Order: 'athena_control', 'geo_info', 'sms_text', 'twitter', 'conversation', 'hello_world', 'music', 'shop', 'uber', 'voice_browse', 'google', 'wolfram'
+
+[2018-08-01 16:52:49,437 INFO]: Waiting to be woken up... 
+[2018-08-01 16:52:58,864 INFO]: Shutting down...
+[2018-08-01 16:52:58,868 INFO]: Arrivederci.
+[2018-08-01 16:54:55,331 DEBUG]: Looking for APIs in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\api_library']
+[2018-08-01 16:54:55,555 DEBUG]: Logged in as: dakidmen
+[2018-08-01 16:54:55,559 DEBUG]: APIs: 'sms_text_api', 'user_api', 'voice_browse_api'
+[2018-08-01 16:54:55,563 DEBUG]: Looking for modules in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\modules\\active']
+[2018-08-01 16:54:55,680 INFO]: Module Order: 'athena_control', 'geo_info', 'sms_text', 'twitter', 'conversation', 'hello_world', 'music', 'shop', 'uber', 'voice_browse', 'google', 'wolfram'
+
+[2018-08-01 16:54:56,667 INFO]: Waiting to be woken up... 
+[2018-08-01 16:56:05,569 INFO]: Shutting down...
+[2018-08-01 16:56:05,573 INFO]: Ciaossu.
+[2018-08-01 17:05:59,121 DEBUG]: Looking for APIs in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\api_library']
+[2018-08-01 17:05:59,276 DEBUG]: Logged in as: dakidmen
+[2018-08-01 17:05:59,283 DEBUG]: APIs: 'sms_text_api', 'user_api', 'voice_browse_api'
+[2018-08-01 17:05:59,289 DEBUG]: Looking for modules in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\modules\\active']
+[2018-08-01 17:05:59,404 INFO]: Module Order: 'athena_control', 'geo_info', 'sms_text', 'twitter', 'conversation', 'hello_world', 'music', 'shop', 'uber', 'voice_browse', 'google', 'wolfram'
+
+[2018-08-01 17:06:00,369 INFO]: Waiting to be woken up... 
+[2018-08-01 17:06:11,917 INFO]: Active listening... 
+[2018-08-01 17:06:22,825 INFO]: Shutting down...
+[2018-08-01 17:06:22,832 INFO]: Ciaossu.
+[2018-08-01 17:06:27,779 DEBUG]: Looking for APIs in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\api_library']
+[2018-08-01 17:06:28,016 DEBUG]: Logged in as: dakidmen
+[2018-08-01 17:06:28,019 DEBUG]: APIs: 'sms_text_api', 'user_api', 'voice_browse_api'
+[2018-08-01 17:06:28,025 DEBUG]: Looking for modules in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\modules\\active']
+[2018-08-01 17:06:28,140 INFO]: Module Order: 'athena_control', 'geo_info', 'sms_text', 'twitter', 'conversation', 'hello_world', 'music', 'shop', 'uber', 'voice_browse', 'google', 'wolfram'
+
+[2018-08-01 17:06:29,101 INFO]: Waiting to be woken up... 
+[2018-08-01 17:06:39,101 INFO]: Active listening... 
+[2018-08-01 17:07:38,342 DEBUG]: Looking for APIs in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\api_library']
+[2018-08-01 17:07:38,576 DEBUG]: Logged in as: dakidmen
+[2018-08-01 17:07:38,581 DEBUG]: APIs: 'sms_text_api', 'user_api', 'voice_browse_api'
+[2018-08-01 17:07:38,585 DEBUG]: Looking for modules in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\modules\\active']
+[2018-08-01 17:07:38,701 INFO]: Module Order: 'athena_control', 'geo_info', 'sms_text', 'twitter', 'conversation', 'hello_world', 'music', 'shop', 'uber', 'voice_browse', 'google', 'wolfram'
+
+[2018-08-01 17:07:39,664 INFO]: Waiting to be woken up... 
+[2018-08-01 17:07:48,444 INFO]: Active listening... 
+[2018-08-01 17:07:57,538 INFO]: 'her up and hit'
+[2018-08-01 17:08:01,924 INFO]: I'm not sure how to respond to that.
+[2018-08-01 17:08:02,848 INFO]: Unknown Google TTS issue: [Error 32] The process cannot access the file because it is being used by another process: 'c:\\users\\mcruzvas\\appdata\\local\\temp\\tmpacy8wn.mp3'
+[2018-08-01 17:08:02,859 INFO]: Waiting to be woken up... 
+[2018-08-01 17:08:10,062 INFO]: Active listening... 
+[2018-08-01 17:08:14,171 INFO]: 'fingers'
+[2018-08-01 17:08:19,796 INFO]: anatomical groups | segment of hand | set of subdivisions of cardinal body part
+members | thumb | index finger | middle finger | ring finger | little finger
+bilateral components | set of fingers of right hand | set of fingers of left hand
+[2018-08-01 17:08:21,082 INFO]: Unknown Google TTS issue: [Error 32] The process cannot access the file because it is being used by another process: 'c:\\users\\mcruzvas\\appdata\\local\\temp\\tmpt9thqs.mp3'
+[2018-08-01 17:08:21,098 INFO]: Waiting to be woken up... 
+[2018-08-01 17:08:25,144 INFO]: Active listening... 
+[2018-08-01 17:09:03,513 INFO]: 'as it does caught the good will and so public and it the television letting us know i got leaving this isn't a good news the current division color sentences'
+[2018-08-01 17:09:19,778 INFO]: I'm not sure how to respond to that.
+[2018-08-01 17:09:20,571 INFO]: Unknown Google TTS issue: [Error 32] The process cannot access the file because it is being used by another process: 'c:\\users\\mcruzvas\\appdata\\local\\temp\\tmpvxdhvp.mp3'
+[2018-08-01 17:09:20,588 INFO]: Waiting to be woken up... 
+[2018-08-01 17:09:23,627 INFO]: Active listening... 
+[2018-08-01 17:09:26,341 INFO]: Shutting down...
+[2018-08-01 17:09:26,348 INFO]: Ciaossu.
+[2018-08-01 17:10:04,986 DEBUG]: Looking for APIs in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\api_library']
+[2018-08-01 17:10:05,125 DEBUG]: Logged in as: dakidmen
+[2018-08-01 17:10:05,128 DEBUG]: APIs: 'sms_text_api', 'user_api', 'voice_browse_api'
+[2018-08-01 17:10:05,134 DEBUG]: Looking for modules in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\modules\\active']
+[2018-08-01 17:10:05,249 INFO]: Module Order: 'athena_control', 'geo_info', 'sms_text', 'twitter', 'conversation', 'hello_world', 'music', 'shop', 'uber', 'voice_browse', 'google', 'wolfram'
+
+[2018-08-01 17:10:06,142 INFO]: Waiting to be woken up... 
+[2018-08-01 17:10:11,732 INFO]: Active listening... 
+[2018-08-01 17:10:55,874 DEBUG]: Looking for APIs in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\api_library']
+[2018-08-01 17:10:56,112 DEBUG]: Logged in as: dakidmen
+[2018-08-01 17:10:56,117 DEBUG]: APIs: 'sms_text_api', 'user_api', 'voice_browse_api'
+[2018-08-01 17:10:56,121 DEBUG]: Looking for modules in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\modules\\active']
+[2018-08-01 17:10:56,237 INFO]: Module Order: 'athena_control', 'geo_info', 'sms_text', 'twitter', 'conversation', 'hello_world', 'music', 'shop', 'uber', 'voice_browse', 'google', 'wolfram'
+
+[2018-08-01 17:10:57,201 INFO]: Waiting to be woken up... 
+[2018-08-01 17:11:03,071 INFO]: Active listening... 
+[2018-08-01 17:15:10,020 DEBUG]: Looking for APIs in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\api_library']
+[2018-08-01 17:15:10,358 DEBUG]: Logged in as: dakidmen
+[2018-08-01 17:15:10,362 DEBUG]: APIs: 'sms_text_api', 'user_api', 'voice_browse_api'
+[2018-08-01 17:15:10,367 DEBUG]: Looking for modules in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\modules\\active']
+[2018-08-01 17:15:10,483 INFO]: Module Order: 'athena_control', 'geo_info', 'sms_text', 'twitter', 'conversation', 'hello_world', 'music', 'shop', 'uber', 'voice_browse', 'google', 'wolfram'
+
+[2018-08-01 17:15:11,382 INFO]: Waiting to be woken up... 
+[2018-08-01 17:15:16,911 INFO]: Active listening... 
+[2018-08-01 17:45:52,920 DEBUG]: Looking for APIs in: ['C:\\Users\\mcruzvas\\Desktop\\hey-athena-client-demo-branch\\athena\\api_library']
+[2018-08-01 17:45:53,170 DEBUG]: Logged in as: dakidmen
+[2018-08-01 17:45:53,170 DEBUG]: APIs: 'sms_text_api', 'user_api', 'voice_browse_api'
+[2018-08-01 17:45:53,184 DEBUG]: Looking for modules in: ['C:\\Users\\mcruzvas\\Desktop\\hey-athena-client-demo-branch\\athena\\modules\\active']
+[2018-08-01 17:45:53,309 INFO]: Module Order: 'athena_control', 'geo_info', 'sms_text', 'twitter', 'conversation', 'hello_world', 'music', 'shop', 'uber', 'voice_browse', 'google', 'wolfram'
+
+[2018-08-01 17:45:54,943 INFO]: Waiting to be woken up... 
+[2018-08-01 17:46:05,615 INFO]: Active listening... 
+[2018-08-01 17:50:00,816 DEBUG]: Looking for APIs in: ['C:\\Users\\mcruzvas\\Desktop\\hey-athena-client-demo-branch\\athena\\api_library']
+[2018-08-01 17:50:01,066 DEBUG]: Logged in as: dakidmen
+[2018-08-01 17:50:01,066 DEBUG]: APIs: 'sms_text_api', 'user_api', 'voice_browse_api'
+[2018-08-01 17:50:01,066 DEBUG]: Looking for modules in: ['C:\\Users\\mcruzvas\\Desktop\\hey-athena-client-demo-branch\\athena\\modules\\active']
+[2018-08-01 17:50:01,114 INFO]: Module Order: 'athena_control', 'geo_info', 'sms_text', 'twitter', 'conversation', 'hello_world', 'music', 'shop', 'uber', 'voice_browse', 'google', 'wolfram'
+
+[2018-08-01 17:50:02,585 INFO]: Waiting to be woken up... 
+[2018-08-01 17:50:03,711 INFO]: Active listening... 
+[2018-08-01 17:50:09,201 INFO]: 'hang on'
+[2018-08-01 17:50:14,719 INFO]: I'm not sure how to respond to that.
+[2018-08-01 17:50:15,378 INFO]: Unknown Google TTS issue: [Error 32] The process cannot access the file because it is being used by another process: 'c:\\users\\mcruzvas\\appdata\\local\\temp\\tmpjpdc8h.mp3'
+[2018-08-01 17:50:15,390 INFO]: Waiting to be woken up... 

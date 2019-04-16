@@ -1,0 +1,24 @@
+[2018-08-01 15:22:19,627 DEBUG]: Looking for APIs in: ['C:\\Users\\mcruzvas\\Downloads\\hey-athena-client-demo-branch\\athena\\api_library']
+[2018-08-01 15:22:30,030 DEBUG]: Logged in as: dakidmen
+[2018-08-01 15:22:30,039 DEBUG]: APIs: 'sms_text_api', 'user_api', 'voice_browse_api'
+[2018-08-01 15:22:30,051 DEBUG]: Looking for modules in: ['C:\\Users\\mcruzvas\\Downloads\\hey-athena-client-demo-branch\\athena\\modules\\active']
+[2018-08-01 15:22:30,351 INFO]: Module Order: 'athena_control', 'geo_info', 'sms_text', 'twitter', 'conversation', 'hello_world', 'music', 'shop', 'uber', 'voice_browse', 'google', 'wolfram'
+
+[2018-08-01 15:22:32,398 INFO]: Waiting to be woken up... 
+[2018-08-01 15:22:33,776 INFO]: Active listening... 
+[2018-08-01 15:22:40,193 INFO]: Shutting down...
+[2018-08-01 15:22:40,200 INFO]: Arrivederci.
+[2018-08-01 16:57:36,414 DEBUG]: Looking for APIs in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\api_library']
+[2018-08-01 16:57:36,671 DEBUG]: Logged in as: dakidmen
+[2018-08-01 16:57:36,674 DEBUG]: APIs: 'sms_text_api', 'user_api', 'voice_browse_api'
+[2018-08-01 16:57:36,681 DEBUG]: Looking for modules in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\modules\\active']
+[2018-08-01 16:57:36,798 INFO]: Module Order: 'athena_control', 'geo_info', 'sms_text', 'twitter', 'conversation', 'hello_world', 'music', 'shop', 'uber', 'voice_browse', 'google', 'wolfram'
+
+[2018-08-01 16:57:37,762 INFO]: Waiting to be woken up... 
+[2018-08-01 16:58:35,905 DEBUG]: Looking for APIs in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\api_library']
+[2018-08-01 16:58:36,148 DEBUG]: Logged in as: dakidmen
+[2018-08-01 16:58:36,151 DEBUG]: APIs: 'sms_text_api', 'user_api', 'voice_browse_api'
+[2018-08-01 16:58:36,155 DEBUG]: Looking for modules in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\modules\\active']
+[2018-08-01 16:58:36,272 INFO]: Module Order: 'athena_control', 'geo_info', 'sms_text', 'twitter', 'conversation', 'hello_world', 'music', 'shop', 'uber', 'voice_browse', 'google', 'wolfram'
+
+[2018-08-01 16:58:37,345 INFO]: Waiting to be woken up... 

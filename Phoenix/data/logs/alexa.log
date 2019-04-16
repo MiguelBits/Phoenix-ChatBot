@@ -1,0 +1,7 @@
+[2018-08-01 16:57:04,415 DEBUG]: Looking for APIs in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\api_library']
+[2018-08-01 16:57:04,556 DEBUG]: Logged in as: dakidmen
+[2018-08-01 16:57:04,565 DEBUG]: APIs: 'sms_text_api', 'user_api', 'voice_browse_api'
+[2018-08-01 16:57:04,572 DEBUG]: Looking for modules in: ['C:\\Users\\mcruzvas\\Desktop\\JARVIS\\hey-athena-client-demo-branch\\athena\\modules\\active']
+[2018-08-01 16:57:04,690 INFO]: Module Order: 'athena_control', 'geo_info', 'sms_text', 'twitter', 'conversation', 'hello_world', 'music', 'shop', 'uber', 'voice_browse', 'google', 'wolfram'
+
+[2018-08-01 16:57:05,677 INFO]: Waiting to be woken up... 
